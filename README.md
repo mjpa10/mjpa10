@@ -22,7 +22,7 @@ Sou estudante de **Engenharia da Computação** 🚀 com experiência prática e
 ### 📊 Estatísticas do GitHub
 
 <div >
-  ![Matheus's GitHub stats]<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mjpa10&show_icons=true&theme=radical&include_all_commits=true&hide_rank=true,prs,contribs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mjpa10&show_icons=true&theme=radical&include_all_commits=true&hide_rank=true,prs,contribs" />
 </div>
 
 ---
