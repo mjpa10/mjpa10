@@ -1,8 +1,8 @@
-# 👋 Olá, meu nome é Matheus José!
+# Olá, meu nome é Matheus José!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F700&width=435&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Fullstack!;Apaixonado+por+Tecnologia!)](https://git.io/typing-svg)
 
-Sou estudante de **Engenharia da Computação** 🚀 com experiência prática em desenvolvimento de software, infraestrutura de redes e servidores. Meu objetivo é atuar como **Desenvolvedor Full Stack**, utilizando habilidades como **C#, .NET, Vue.js, APIs RESTful**, entre outras.
+Sou estudante de **Engenharia da Computação** com experiência prática em desenvolvimento de software, infraestrutura de redes e servidores. Meu objetivo é atuar como **Desenvolvedor Full Stack**, utilizando habilidades como **C#, .NET, Vue.js, APIs RESTful**, entre outras.
 
 ---
 
