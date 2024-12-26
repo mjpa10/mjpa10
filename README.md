@@ -1,10 +1,27 @@
 # Olá, meu nome é Matheus José!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F700&width=435&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Fullstack!;Apaixonado+por+Tecnologia!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F700&width=435&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Fullstack!)](https://git.io/typing-svg)
 
 Sou estudante de **Engenharia da Computação** com experiência prática em desenvolvimento de software, infraestrutura de redes e servidores. Meu objetivo é atuar como **Desenvolvedor Full Stack**, utilizando habilidades como **C#, .NET, Vue.js, APIs RESTful**, entre outras.
 
 ---
+
+### 📊 Estatísticas do GitHub
+
+<div style="display: flex; gap: 20px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mjpa10&show_icons=true&theme=dark&include_all_commits=true&hide_rank=true&hide=prs,contribs" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjpa10&layout=compact&theme=dark"/>
+</div>
+
+
+---
+
+## 🌐 Redes Sociais
+<div> 
+  <a href = "mailto:m.theus.jose.pereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/matheus2.0_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-josee" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ## 🚀 Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,22 +35,3 @@ Sou estudante de **Engenharia da Computação** com experiência prática em des
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<div >
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mjpa10&show_icons=true&theme=dark&include_all_commits=true&hide_rank=true&hide=prs,contribs" />
-</div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjpa10&layout=compact&theme=dark)
-
----
-
-## 🌐 Redes Sociais
-<div> 
-  <a href = "mailto:m.theus.jose.pereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/matheus2.0_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-josee" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-💡 *Sempre em busca de aprender e criar coisas incríveis! Se quiser trocar ideias, sinta-se à vontade para entrar em contato.* 😊
