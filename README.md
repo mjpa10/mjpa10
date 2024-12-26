@@ -30,10 +30,10 @@ Sou estudante de **Engenharia da Computação** 🚀 com experiência prática e
 ---
 
 ## 🌐 Redes Sociais
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-josee/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpa10)
-
----
+<div> 
+  <a href = "mailto:m.theus.jose.pereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/matheus2.0_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-josee" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 💡 *Sempre em busca de aprender e criar coisas incríveis! Se quiser trocar ideias, sinta-se à vontade para entrar em contato.* 😊
