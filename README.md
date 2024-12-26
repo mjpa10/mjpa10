@@ -22,6 +22,7 @@ Sou estudante de **Engenharia da Computação** 🚀 com experiência prática e
 ## 📊 Estatísticas do GitHub
 
 ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjpa10&show_icons=true&theme=radical)
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wictorrf&show_icons=true&theme=cobalt&hide=contribs,prs"/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjpa10&layout=compact&theme=radical)
 
 ---
