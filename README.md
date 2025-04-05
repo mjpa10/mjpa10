@@ -18,20 +18,7 @@ Sou estudante de **Engenharia da Computação** com experiência prática em des
 
 ### 🌟 Visite meu Portfólio
 
-<div align="center">  
-  <a href="https://portfolio-lyart-zeta-39.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Acesse%20Meu%20Portfólio-00f700?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio Matheus José"/>
-  </a>  
-</div>  
-
-<br>  
-
-<div align="center">  
-  <a href="https://portfolio-lyart-zeta-39.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/mjpa10/portfolio/main/public/preview.png" alt="Preview do Portfólio" height="180px" style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"/>  
-  </a>
-</div>  
----
+ <a href = "https://portfolio-lyart-zeta-39.vercel.app"><img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" target="_blank"></a>
 
 ## 🌐 Redes Sociais
 <div> 
