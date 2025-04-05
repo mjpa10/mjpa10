@@ -18,7 +18,9 @@ Sou estudante de **Engenharia da Computação** com experiência prática em des
 
 ### 🌟 Visite meu Portfólio
 
- <a href = "https://portfolio-lyart-zeta-39.vercel.app"><img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" target="_blank"></a>
+ <a href="https://portfolio-lyart-zeta-39.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20Portfólio-ACESSE%20AQUI-0078D4?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfólio" />
+</a>
 
 ## 🌐 Redes Sociais
 <div> 
