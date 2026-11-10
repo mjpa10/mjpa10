@@ -2,7 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F700&width=435&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Fullstack!)](https://git.io/typing-svg)
 
-Sou estudante de **Engenharia da Computação** com experiência prática em desenvolvimento de software, infraestrutura de redes e servidores. Meu objetivo é atuar como **Desenvolvedor Full Stack**, utilizando habilidades como **C#, .NET, Vue.js, APIs RESTful**, entre outras.
+Sou formado em Engenharia da Computação e pós-graduando em Inteligência Artificial e Machine Learning, com experiência prática em desenvolvimento de software, automação de processos e infraestrutura de tecnologia.
+
+Tenho foco em desenvolvimento Backend, trabalhando com tecnologias como Java, Spring Boot, C#, .NET, Python, SQL e Oracle, além do desenvolvimento de APIs RESTful, integração de sistemas e automações utilizando IA.
+
+Estou sempre buscando aprimorar minhas habilidades, explorar novas tecnologias e desenvolver soluções eficientes para problemas reais.
 
 ---
 
